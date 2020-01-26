@@ -1,4 +1,4 @@
-# unbalanced-data-classification
+# Imbalanced-data-classification
 Machine Learning Project on Imbalanced Data 
 here the aim is to predict a binary class which is imbalanced 
 94% of target variable is filled with -5000 and 6% of target variable is filled with 5000
